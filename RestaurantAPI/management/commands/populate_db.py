@@ -35,6 +35,7 @@ class Command(BaseCommand):
             ('Iced Tea', 'Beverages', 2.50),
             ('French Fries', 'Sides', 3.99),
             ('Onion Rings', 'Sides', 4.99),
+            ('Toast bread', 'Sides', 3.99),
         ]
 
         for title, category, price in menu_items:
